@@ -24,9 +24,6 @@ Welcome to my GitHub profile! I'm a passionate frontend developer 👩🏻‍�
 
 ## 📌 Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shruti-su&repo=awesome-project&theme=radical)](https://github.com/shruti-su/awesome-project)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shruti-su&repo=another-cool-project&theme=radical)](https://github.com/shruti-su/another-cool-project)
 
 ## 📫 Connect with Me
 
