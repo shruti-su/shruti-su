@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Shruti Dutta! 👋
 
-<!--
-**shruti-su/shruti-su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate frontend developer 👩🏻‍💻 with a keen interest in various programming languages and technologies. Here you will find a collection of my projects, contributions, and some of the things I am currently working on.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 I love coding and exploring new technologies.
+- 🌱 Currently learning advanced algorithms and data structures.
+- 👯 Looking to collaborate on open-source projects.
+- 🤔 Always eager to find solutions to challenging problems.
+- 📫 How to reach me: [shruti040112@gmail.com](mailto:shruti040112@gmail.com)
+
+## 🛠️ Technologies & Tools
+
+- **Programming Languages:** Python, JavaScript, Java, C++, C
+- **Frameworks & Libraries:** Angular, Node.js, .Net Core
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub, Taiga
+- **Others:** Docker, AWS
+
+## 📈 GitHub Stats
+
+![Shruti Dutta's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruti-su&show_icons=true&theme=radical)
+
+## 📌 Pinned Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shruti-su&repo=awesome-project&theme=radical)](https://github.com/shruti-su/awesome-project)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shruti-su&repo=another-cool-project&theme=radical)](https://github.com/shruti-su/another-cool-project)
+
+## 📫 Connect with Me
+
+- **LinkedIn:** [Shruti Dutta](https://www.linkedin.com/in/shruti-dutta-75859b2b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate or just say hi.
