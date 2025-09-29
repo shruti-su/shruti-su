@@ -1,6 +1,6 @@
 # Hi there, I'm Shruti Dutta! 👋
 
-Welcome to my GitHub profile! I'm a passionate frontend developer 👩🏻‍💻 with a keen interest in various programming languages and technologies. Here you will find a collection of my projects, contributions, and some of the things I am currently working on.
+Welcome to my GitHub profile! I'm a passionate web developer 👩🏻‍💻 with a keen interest in various programming languages and technologies. Here you will find a collection of my projects, contributions, and some of the things I am currently working on.
 
 ## 🚀 About Me
 
