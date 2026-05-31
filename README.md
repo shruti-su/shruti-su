@@ -10,15 +10,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=A9FEF7&center=true&vCenter=true&repeat=true&width=700&lines=System+Architect+%7C+Framework+Builder;Linux+%2B+Kernel+Developer+%7C+5%2B+Years;Full-Stack+%7C+.NET+%7C+React+%7C+Python;DevOps+%7C+Docker+%7C+Kubernetes+%7C+Cloud;Cybersecurity+%26+Network+Engineer;Building+tools+that+build+things.)
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=tuhin-su&label=Profile+Views&color=534AB7&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/tuhin-su?label=Followers&style=flat-square&color=534AB7&labelColor=1a1a2e" />
-&nbsp;
-<img src="https://img.shields.io/badge/Repos-69%2B-A9FEF7?style=flat-square&labelColor=1a1a2e" />
-&nbsp;
-<img src="https://img.shields.io/badge/Based_in-India%20🇮🇳-white?style=flat-square&labelColor=1a1a2e" />
 
 </div>
 
@@ -27,18 +18,17 @@
 ## `$ whoami`
 
 ```yaml
-name        : Tuhin Su
-role        : Senior System Designer & Full-Stack Developer
-location    : Delhi, India
-experience  : 5+ Years in Linux & System Architecture
+name        : Shruti Su
+role        : Full-Stack Developer & Tester
+location    : Kolkata, India
+experience  : 5+ Years experience of using Linux
 
 philosophy  : "Don't just use tools — build them."
 
 currently   :
-  - Architecting cloud-native microservices
-  - Building custom .NET framework (Stacher)
-  - Exploring Rust for systems programming
-  - Studying Zero-Trust security models
+  - Building new projects
+  - Gather khowledge about new tecnologies 
+  - Exploring the new technologies
 
 open_to     : Collaboration · Open Source · Consulting
 ```
@@ -51,19 +41,12 @@ open_to     : Collaboration · Open Source · Consulting
 <tr>
 <td width="50%" valign="top">
 
-### 🏗️ Enterprise & Frameworks
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| [**Stacher-dotnet**](https://github.com/tuhin-su/stacher-dotnet) | `C#` `.NET` `PostgreSQL` | 🟢 Active |
-| [**UBS Billing**](https://github.com/tuhin-su/UBS) | `React` `TS` `Node.js` | 🟢 Active |
-| [**Vita-Node Framework**](https://github.com/tuhin-su/vita-node-fremwork) | `Node.js` `Vite` | 🔵 Stable |
 
 ### 🌐 Web & Real-time
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| [**BroTcast Chat**](https://github.com/tuhin-su/Brotcast-Chat) | `Python` `P2P` | 🟢 Active |
+| [**Excel-analytics**](https://github.com/shruti-su/Excel-analytics) | `React` `Express.js` `node.js` `MongoDB` | 🔵 Stable |
 | [**WebSocket Suite**](https://github.com/tuhin-su/web-soket-test) | `JS` `WS` | 🔵 Stable |
 | [**E-Learning Platform**](https://github.com/tuhin-su/e-learning) | `Full-Stack` | 🟡 Beta |
 
