@@ -6,15 +6,6 @@
 
 ---
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1500&color=A9FEF7&center=true&vCenter=true&repeat=true&width=700&lines=System+Architect+%7C+Framework+Builder;Linux+%2B+Kernel+Developer+%7C+5%2B+Years;Full-Stack+%7C+.NET+%7C+React+%7C+Python;DevOps+%7C+Docker+%7C+Kubernetes+%7C+Cloud;Cybersecurity+%26+Network+Engineer;Building+tools+that+build+things.)
-
-
-</div>
-
----
-
 ## `$ whoami`
 
 ```yaml
@@ -114,74 +105,20 @@ open_to     : Collaboration · Open Source · Consulting
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 </details>
 
-<details>
-<summary><b>🔐 Security & Networking</b></summary>
-<br>
-
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-
-</details>
 
 ---
-
-## `$ top --sort-by=impact`
-
-```
-PID   PROCESS                         DOMAIN        IMPACT     UPTIME
-────────────────────────────────────────────────────────────────────────
-001   stacher-dotnet                  .NET/Backend  ████████   Active
-002   UBS-billing-software            Full-Stack    ███████    Active
-003   AegisKernel                     OS/C++        ██████     Active
-004   WireScail-network               Security/Net  ██████     Active
-005   BroTcast-Chat                   Python/P2P    █████      Active
-006   LineageOS-Compiler              Android/C++   █████      Stable
-007   docker-network-tool             DevOps        █████      Stable
-008   qemu-composer                   Infra/VM      ████       Stable
-009   headscail-server                VPN/Server    ████       Stable
-010   ChatMe-android                  Mobile        ████       Stable
-────────────────────────────────────────────────────────────────────────
-Load avg: HIGH   Domains: 6   Languages: 9+   Uptime: ~8 months
-```
-
----
-
-## `$ htop --metrics`
 
 ### Skill proficiency
 
 ```
-System Architecture    [██████████████████░░]  90%  ■ Expert
-.NET / C# Dev          [█████████████████░░░]  88%  ■ Expert
-DevOps & Infra         [████████████████░░░░]  87%  ■ Expert
-Linux Administration   [████████████████░░░░]  85%  ■ Expert
-Python                 [████████████████░░░░]  85%  ■ Expert
-Cloud Platforms        [████████████████░░░░]  80%  ■ Advanced
+Frontend / React       [██████████████████░░]  90%  ■ Advanced
+Linux Administration   [█████████████████░░░]  85%  ■ Advanced
 Full-Stack Web         [████████████████░░░░]  80%  ■ Advanced
 Database Design        [████████████████░░░░]  80%  ■ Advanced
-Cybersecurity          [███████████████░░░░░]  78%  ■ Advanced
-Frontend / React       [██████████████░░░░░░]  75%  ■ Advanced
+Cloud Platforms        [███████████████░░░░░]  75%  ■ Advanced
+
 ```
 
----
-
-## `$ git log --what-im-learning`
-
-```diff
-+ Rust for systems programming
-+ WebAssembly (WASM) integration
-+ Zero-Trust security architecture
-+ Event-driven microservices
-+ AWS Solutions Architect (Professional)
-+ Certified Kubernetes Administrator (CKA)
-+ CISSP — Cybersecurity certification
-~ MLOps & Machine Learning pipelines (exploring)
-```
 
 ---
 
@@ -189,15 +126,15 @@ Frontend / React       [██████████████░░░░�
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tuhin-su&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shruti-su&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tuhin-su&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shruti-su&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tuhin-su&theme=algolia&hide_border=true" alt="tuhin-su streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-su&theme=algolia&hide_border=true" alt="shruti-su streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tuhin-su&theme=react-dark&bg_color=20232a&hide_border=true&color=A9FEF7&line=534AB7&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-su&theme=react-dark&bg_color=20232a&hide_border=true&color=A9FEF7&line=534AB7&point=ffffff" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=tuhin-su&theme=algolia&no-frame=true&margin-w=6&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=shruti-su&theme=algolia&no-frame=true&margin-w=6&row=1&column=6" />
 
 </div>
 
@@ -223,15 +160,9 @@ Frontend / React       [██████████████░░░░�
 
 ---
 
-## `$ ifconfig --contacts`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuhin-su)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuhin-su)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://tuhin-su.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuhin.su@example.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.tuhin-su.dev)
 
 <br>
 
